@@ -22,6 +22,7 @@ public class Main {
         }
         for (int i = 0; i < massive.length; i++) {
             System.out.printf(massive[i] + " ");
+            System.out.println("123");
         }
     }
 }
